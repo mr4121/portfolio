@@ -1,10 +1,12 @@
-title: <p align = "center"> Mohit Raj </p>
+# Site settings
+title: Mohit Raj
 logo: /assets/img/MR.jpeg
-description: 
-  <p align="center">
-  <a href="https://www.linkedin.com/in/raj-mohit/">LinkedIn<a/a>
-  <br>
-  </p>
-
-
+description: Minimal is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-minimal
+
+# Optional: social links (if you modify layout to show these)
+social_links:
+  - name: LinkedIn
+    url: https://www.linkedin.com/in/your-profile
