@@ -1,3 +1,15 @@
+<!-- Centered Title -->
+<h2 style="text-align: center;">Mohit Raj</h2>
+
+<!-- Centered Image -->
+<img src="/assets/img/MR.jpeg" alt="Logo" width="150" style="display: block; margin: 0 auto;" />
+
+<!-- Centered LinkedIn URL -->
+<p style="text-align: center;">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID" target="_blank" style="text-decoration: none; color: #0077b5;">
+    Connect on LinkedIn
+  </a>
+</p>
 
 # Data Analysis Projects
 
